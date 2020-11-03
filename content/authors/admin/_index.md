@@ -1,12 +1,12 @@
 ---
 # Display name
-#title: Nick Plummer
+title: Nick Plummer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-#role: Speciality trainee in anaesthesia and intensive care medicine
+role: Speciality trainee in anaesthesia and intensive care medicine
 
 # Organizations/Affiliations
 #organizations:
@@ -81,12 +81,12 @@ highlight_name: false
 #- Visitors
 ---
 
-You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related rambling and the occasional badly written piece of open course code.
+You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open sourse code.
 
 I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. 
 
-I’ve dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also nerdily in to quality improvement, especially the interface with qualitative and quantiative research techniques to better understand how to implement lasting behavioural and systematic change.
+Although predominantly clinical I've dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also a nerd about doing quality improvement properly, especially using the interface with qualitative and quantitative research techniques to better understand how to implement lasting behavioural and systematic change.
 
-You'll also find posts about food, my quest to regain my fitness after comfort-eating through far too many exams, the occasional data or science rant, and coping with raising twins.
+You'll also find posts about allergen friendly food, my quest to regain my fitness after comfort-eating through far too many exams, the occasional data, political, or science rant, and comments about coping with raising twins.
 
 If after all this you're desperate to contact me, find me on any of the social media platforms, or send me an email using the marginally spam-safe [contact form](/#contact).
