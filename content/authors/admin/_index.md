@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+#title: Nick Plummer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Speciality trainee in anaesthesia and intensive care medicine
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anaesthetist and intensive care trainee, amateur data scientist.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: MSc Data Science, Technology, and Innovation
+#    institution: University of Edinburgh
+#    year: 2020 (in progress)
+#  - course: Fellowship of the Royal College of Anaesthesia
+#    institution: Royal College of Anaesthetists
+#    year: 2019
+#  - course: Membership of the Royal Colleges of Physicians of the United Kingdom
+#    institution: Royal College of Physicians and Surgeons of Glasgow
+#    year: 2016
+#  - course: MB BChir Graduate Course in Medicine
+#    institution: Wolfson College, University of Cambridge
+#    year: 2013
+#  - course: MA MSci Natural Sciences
+#    institution: Gonville & Caius College, University of Cambridge
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +46,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:nickplummer@cantab.net
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/nickopotamus
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/nickopotamus
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Nicholas_Plummer
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1239-9253
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nickopotamus
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,18 +69,18 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nickplummer@cantab.net"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related rambling and the occasional badly written piece of open course code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. I’ve dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also nerdily in to quality improvement, especially the interface with and use of research techniques to better understand the mechanisms behind, and to facilitate, lasting change to behaviour and healthcare mechanisms.
