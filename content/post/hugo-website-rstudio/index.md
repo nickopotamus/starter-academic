@@ -29,7 +29,7 @@ projects: []
 ---
 After running on various versions of home-brew software and Wordpress, I got fed up trying to force PHP and MySQL into behaving and transitioned my website over to [Jekyll](https://jekyllrb.com/) running on [Netlify](https://www.netlify.com/). However Jekyll isn't the most userfriendly of software, and trying to make Ruby run properly every time I updated macOS was putting me off writing because I'd then spend a day trying to publish it! 
 
-Recently I've been inspired by fellow anaesthetist [Chris Tomlinson's](https://ctomlinson.net) use of [Hugo](https://gohugo.io/) and [Github pages](https://pages.github.com/) to run a static website, as as an R-zealot the fact I can run it entirely from within the One True IDE [RStudio](https://rstudio.com) had me sold. So with a few modifications and updates to [his installation instructions](https://ctomlinson.net/post/building-a-website-with-hugo-academic/) here is how I got this site running on Netlify using [Wowchemy](https://wowchemy.com/)'s [Academic template](https://academic-demo.netlify.app/)...
+Recently I've been inspired by fellow anaesthetist [Chris Tomlinson's](https://ctomlinson.net) use of [Hugo](https://gohugo.io/) and [Github pages](https://pages.github.com/) to run a static website, and as an R-zealot the fact I can run it entirely from within the One True IDE [RStudio](https://rstudio.com) had me sold. So with a few modifications and updates to [his installation instructions](https://ctomlinson.net/post/building-a-website-with-hugo-academic/) here is how I got this site running on Netlify using [Wowchemy](https://wowchemy.com/)'s [Academic template](https://academic-demo.netlify.app/)...
 
 ## Step 1: Install Hugo
 
@@ -47,11 +47,11 @@ Next step is to update  ```.zshrc``` (or ```.bashrc```) to point Hugo at Go by r
 export PATH=$PATH:/usr/local/go/bin
 ```
 
-## Step 2: Github
+## Step 2: GitHub
 
 If you don't already have one, register for a [GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). You don't need to know Git, but if you want a quick exploratory tutorial [the Software Carpentary tutorial](https://swcarpentry.github.io/git-novice/) is a good start, and the [GitHub desktop app](https://desktop.github.com/) is a good cheat to avoid terminal errors.
 
-When you're ready fork the [Hugo Academic template](https://github.com/wowchemy/starter-academic) into your own repository ```https://github.com/YOURUSERNAME/starter-acadmic```.
+When you're ready fork the [Hugo Academic template](https://github.com/wowchemy/starter-academic) into your own repository ```https://github.com/YOURUSERNAME/starter-academic```.
 
 ## Step 3: RStudio
 
@@ -70,7 +70,7 @@ To run the website, use ```blogdown:::serve_site()```. It will appear in the Vie
 
 ## Step 4: Netlify
 
-[Login to Netlify](https://app.netlify.com/) using your GitHub credentials. Fill in the registration details and you'll be taken to your "Team Overview" (yes, you're a team of one). Under the "YOUNAME's team" box is "Sites", so select the green "New site from Git" button, which allows you to automatically process your GitHub repository and publish it as a website:
+[Login to Netlify](https://app.netlify.com/) using your GitHub credentials. Fill in the registration details and you'll be taken to your "Team Overview" (yes, you're a team of one). Under the "YOURNAME's team" box is "Sites", so select the green "New site from Git" button, which allows you to automatically process your GitHub repository and publish it as a website:
 
 1. Connect to GitHub for continuous deployment (it may reauthenticate)
 2. Select the repository ```YOURNAME/starter-academic```. 
