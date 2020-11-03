@@ -46,7 +46,7 @@ bio: Anaesthetist and intensive care trainee, amateur data scientist.
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:nickplummer@cantab.net
+  link: "#contact"
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/nickopotamus
@@ -83,4 +83,10 @@ highlight_name: false
 
 You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related rambling and the occasional badly written piece of open course code.
 
-I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. I’ve dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also nerdily in to quality improvement, especially the interface with and use of research techniques to better understand the mechanisms behind, and to facilitate, lasting change to behaviour and healthcare mechanisms.
+I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. 
+
+I’ve dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also nerdily in to quality improvement, especially the interface with qualitative and quantiative research techniques to better understand how to implement lasting behavioural and systematic change.
+
+You'll also find posts about food, my quest to regain my fitness after comfort-eating through far too many exams, the occasional data or science rant, and coping with raising twins.
+
+If after all this you're desperate to contact me, find me on any of the social media platforms, or send me an email using the marginally spam-safe [contact form](/#contact).
