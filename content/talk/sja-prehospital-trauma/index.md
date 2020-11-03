@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Difficult Airways and How to Tame Them"
-event: "Anaesthetic Nurse Education Day"
+title: "Pre-hospital trauma"
+event: "SJA Continual Professional Development"
 event_url:
-location: "Queens Medical Centre"
+location: "Highfields Fire Station"
 address:
   street:
   city:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-08-15T09:00:00Z
+date: 2019-04-30T18:30:00Z
 #date_end: 2020-11-03T16:32:40Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-08-15T09:00:00Z
+publishDate: 2019-04-30T18:30:00Z
 
 authors: []
-tags: ["Airway", "Anaesthetics"]
+tags: ["Trauma", "PHEM", "SJA"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -66,4 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrnrSBpU6rJfK9pq-YFU6DkEZ4lf_cxReOifFteQx35fTOYfZ8APPhSPsh9rpFwg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb6saRISxfA-vYLIExOv-eLM1aewpyl4O_-QEJYVJYcEMcTdbosOv7kTwlT1JHaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
