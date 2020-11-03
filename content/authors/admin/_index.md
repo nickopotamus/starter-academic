@@ -81,7 +81,7 @@ highlight_name: false
 #- Visitors
 ---
 
-You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open sourse code.
+You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open source code.
 
 I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. 
 

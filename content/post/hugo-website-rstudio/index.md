@@ -55,7 +55,7 @@ When you're ready fork the [Hugo Academic template](https://github.com/wowchemy/
 
 ## Step 3: RStudio
 
-Create a new project in [RStudio](https://rstudio.com/) from your forked template by selecting File > New Project... > Version Control > Git. Use your fork of the starter project URL, select where you want it saved (a good place to save it is the ```~/Documents/GitHub``` folder that GitHub desktop uses). Then hit Create Project, and wait while it downloads all the files.
+Create a new project in [RStudio](https://rstudio.com/) from your forked template by selecting File > New Project... > Version Control > Git. Use your fork of the starter project URL and select where you want it saved (a good place to save it is the ```~/Documents/GitHub``` folder that GitHub desktop uses). Then hit Create Project, and wait while it downloads all the files.
 
 This will open a new project based on all the included ```academic.Rproj``` file, and open the file structure of the template in the RStudio Files pane.
 
