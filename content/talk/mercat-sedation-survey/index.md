@@ -49,7 +49,7 @@ image:
 url_slides: 
 
 url_code: 
-url_pdf: "mercat_sedation_poster.pdf"
+url_pdf: mercat_sedation_poster.pdf
 url_video: 
 
 # Markdown Slides (optional).
@@ -66,4 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
+![](mercat_sedation_poster.png)
