@@ -66,4 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxxKD3vkpJy0YZozmt2oZJO7YeO5UK68hYa0e6ApVVkclgAg_7Jny17NLL_kIxVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![Poster image]("mtccn_transfer_poster.png")
