@@ -49,7 +49,7 @@ image:
 url_slides: 
 
 url_code: 
-url_pdf: mtccn_transfer_poster.pdf
+url_pdf: talk/emccn-sedation-audit/emccn_transfer_poster.pdf
 url_video: 
 
 # Markdown Slides (optional).
@@ -66,4 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-![](mtccn_transfer_poster.png)
+![](emccn_transfer_poster.png)
