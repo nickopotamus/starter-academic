@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(Casual) data Science for Doctors"
+title: "(Casual) Data Science for Doctors"
 summary: ""
 authors: []
-tags: []
+tags: ["data sciences", "programming", "python", "r", "data visualisation"]
 categories: []
 date: 2020-12-04T08:26:42Z
 
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Doctors who _like_ statistics are a very rare breed. It's a topic of horror for most in post-graduate exams, and the most we tend to use it in day to day life is through utterly misunderstanding the p-value and drawing useless pie charts on posters. But it really doesn't have to be this way.
+
+Healthcare is full of data, from the field-defining randomised controlled trial through to the mandatory yearly audit through to the humble ward jobs list. Manipulating, drawing inferences from, understanding, and visualising this data should be a core part of our jobs, but is shrouded in a mystique that it really doesn't deserve but which scares doctors away. So I'm hoping here to present a roadmap that health professionals can take to get on board the data-driven evidence train and use data science in their everyday work.
+
+
