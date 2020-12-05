@@ -64,6 +64,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["data-science-for-doctors"]
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxxKD3vkpJy0YZozmt2oZJO7YeO5UK68hYa0e6ApVVkclgAg_7Jny17NLL_kIxVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
