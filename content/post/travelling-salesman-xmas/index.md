@@ -31,7 +31,7 @@ My local village has set up a lovely Christmas trail this year, with houses goin
 
 So obviously it needed solving.
 
-At it's core, this is the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem). Finding the shortest route (assuming walking pace is pretty much constant, despite the hills) between all the points, visiting each display once and only once. Luckily Google's [OR-Tools](https://developers.google.com/optimization) can [solve this](https://developers.google.com/optimization/routing) in an efficient way in Python (in a number of ways, in fact), and the [Google Maps API](https://developers.google.com/maps/documentation) provides a handy hook into pulling distances between addresses which can feed into this.
+At its core, this is the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem). Finding the quickest route (or shortest, assuming that walking pace is pretty much constant despite the hills) between all the points, visiting each display once and only once. Luckily Google's [OR-Tools](https://developers.google.com/optimization) can [solve this](https://developers.google.com/optimization/routing) in a fairly efficient way in Python (in a number of ways, in fact), and the [Google Maps API](https://developers.google.com/maps/documentation) provides a handy hook into pulling distances between addresses which can feed into this.
 
 First step is to create a data model to store a matrix of distances:
 
@@ -49,7 +49,7 @@ def create_data_model():
     return data
   ```
 
-Next up use Google Maps to build a matrix of distances between the addresses in ```data['addresses']``` and store it as ```data['distance_matrix']```, utilising the functions in the [Google Developer's example](https://developers.google.com/optimization/routing/vrp#distance_matrix_api):
+Next up [use Google Maps to build a matrix of distances](https://developers.google.com/optimization/routing/vrp#distance_matrix_api) between the addresses in ```data['addresses']``` and store it in ```data['distance_matrix']```:
 
 ```python
 def create_distance_matrix(data):
@@ -73,14 +73,12 @@ def create_distance_matrix(data):
   return distance_matrix
 
 def send_request(origin_addresses, dest_addresses, API_key):
-  """ Build and send request for the given origin and destination addresses."""
   def build_address_str(addresses):     # Build a pipe-separated string of addresses
     address_str = ''
     for i in range(len(addresses) - 1):
       address_str += addresses[i] + '|'
     address_str += addresses[-1]
     return address_str
-
   request = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial'
   origin_address_str = build_address_str(origin_addresses)
   dest_address_str = build_address_str(dest_addresses)
@@ -131,7 +129,7 @@ search_parameters.first_solution_strategy = (
 # Solve and print the solution
 solution = routing.SolveWithParameters(search_parameters)
 if solution:
-    print_solution(manager, routing, solution)
+    print_solution(manager, routing, solution) # see full code for print_solution()
 ```
 
 The full code including all the functions mentioned above is [on my Github](https://github.com/nickopotamus/keyworth_xmas_lights/), and I'll see you on the optimal Christmas trail!
