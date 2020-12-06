@@ -81,12 +81,8 @@ highlight_name: false
 #- Visitors
 ---
 
-You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open source code.
+You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open source code or bad statistical interpretation.
 
-I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and prehospital and motorsport medicine. 
+I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in retrieval and transfer medicine, neurointensive care, and motorsport medicine, and I dabble in research (currently completing a MSc in data science) and get quite nerdy about doing quality improvement well. 
 
-Although predominantly clinical I've dabbled in research in risk prediction, prevention of critical care delirium, and decision making on intensive care, and I'm currently completing a MSc in data science. I am also a nerd about doing quality improvement properly, especially using the interface with qualitative and quantitative research techniques to better understand how to implement lasting behavioural and systematic change.
-
-You'll also find posts about allergen friendly food, my quest to regain my fitness after comfort-eating through far too many exams, the occasional data, political, or science rant, and comments about coping with raising twins.
-
-If after all this you're desperate to contact me, find me on any of the social media platforms, or send me an email using the marginally spam-safe [contact form](/#contact).
+If after all this you're desperate to contact me, [find me on any of the social media platforms, or send me an email](/#contact).
