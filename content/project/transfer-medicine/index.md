@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quality improvement in critical care transfer medicine"
+title: "Improving quality in critical care transfer medicine"
 summary: ""
 authors: []
 tags: []
