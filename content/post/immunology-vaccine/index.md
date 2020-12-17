@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I want to write a post about what happened when I got jabbed recently, but realise I can't without rationalising why I got jabbed. This is why you should too, as soon as you possibly can.
+I want to write a post about what happened when I got jabbed recently, but realise I can't without rationalising why I got jabbed. This is why you (probably) should too, as soon as you possibly can.
 
 As with everything on this site - and the web in general - this is not medical advice, just here for information. If you have any questions aboute vaccination go speak to your doctor (and don't read crackpot conspiracy theories from people trying to sell you clicks)
 
@@ -58,15 +58,15 @@ And what's the newest infection on the block? Which none of us until this year (
 
 ## How COVID fucks you up
 
-COVID-19 is very much a spectrum of disease, from mild infections through to respiratory failure and a sepsis-like picture that we still really don't understand, where this overwhelming inflammatory response knackers your lungs, kidneys, heart, and brain, and causes your blood to become prone to clotting as well as making it impossible to breath. Trust me, you really don't want it.
+COVID-19 is very much a spectrum of disease, from mild infections through to respiratory failure and a sepsis-like picture that [we still don't entirely understand](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html), where this overwhelming inflammatory response knackers your lungs, kidneys, heart, and brain, and causes your blood to become prone to clotting as well as making it impossible to breath. Trust me, you really don't want it.
 
-Kids, on the whole, fair well with COVID. Adults do not, and the older we get, the less well we fair. This is all pretty much down to [our innate immune system's response](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30135-8/fulltext). "I'm just doing my job" it says, but kids are well made for the body's army to be going flinging it's biological missiles everywhere, and we're just not.
+Kids, on the whole, [fair well with COVID](https://emedicine.medscape.com/article/2500132-overview). Adults do not, and the older we get, the less well we cope. This is all pretty much down to [our innate immune system's response](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30135-8/fulltext). "I'm just doing my job" it says, but kids are well made for the body's army to be going flinging it's biological missiles everywhere, and we're just not.
 
 [Colin Angus](https://twitter.com/VictimOfMaths) has put together some terrifying visualisations of how COVID is affecting the population by age groups, and this is excactly the picture we're seeing:
 
 ![Mortality is much worse in the older age groups](/post/immunology-vaccine/age_mortality.jpeg)
 
-Hopefully by now you'll see that catching COVID would be a Bad Thing. Even if you've lucked out in the genetic lottery, and you can cope with an inflammatory response, that person you coughed on in the supermarket might not be so lucky, and your gran is in for a real struggle when her metaphorical army but in their first appearance for decades. So we all have a responsibility to try and stop catching this virus, both for our own sake, but also to stop spreading it around (and then we can all go back to doing the things we like, bonus win).
+Hopefully by now you'll see that catching COVID would be a Bad Thing. Even if you've won the genetic lottery and can cope with an inflammatory response, that person you coughed on in the supermarket might not be so lucky, and your gran is in for a real struggle when her metaphorical army put in their first appearance for decades. So we all have a responsibility to try to stop catching this virus, both for our own sake, but also to stop spreading it around (and then we can all go back to doing the things we enjoy, like going to restaurants and engaging in hobbies outside of the garden).
 
 
 ## Why the vaccine (probably) won't
@@ -78,11 +78,11 @@ Vaccines aim to work like that childhood phase, showing the body the potential b
 * Innate immunity gets excited (so you feel a bit generally unwell)
 * Adaptive immunity makes some antibodies, and it all goes away
 
-Next time you see that bit of bug it will be attached to the bad version, but the adaptive immune response knows it, and kills it with antibodies before the army are even aware it exists, keeping you safe and happy (and before you can spread it around). Happy days.
+Next time you see that bit of bug it will be attached to the bad version, but the adaptive immune response knows it, and kills it with antibodies before the army are even aware it exists, keeping you safe and happy (and before you can spread it around).
 
-Yes, there are risks with vaccines, and most of this risk is because you are playing with the immune system with bits of infection. For example, one of the most feared complications of measles is encephalitis (brain inflammation) due to the immune response. [This occurs in about 1-3 in 1000 infections](https://www.cdc.gov/measles/symptoms/complications.html), so there is a very, very, *very* small risk of it happening with vaccines, because they're going for the same immune response with very similar triggering molecules. [It's happened three times in the entire history of measles vaccinations](https://www.cdc.gov/vaccinesafety/vaccines/mmr-vaccine.html), and in only one of them has the vaccine been solidly causally linked. Similarly anti-vax websites rant about [transverse myelitis](https://en.wikipedia.org/wiki/Transverse_myelitis) being causes by vaccines, but the [rate of it is vanishingly small](https://n.neurology.org/content/90/15_Supplement/P5.099) compared to the rate of transvere myelitis being caused by actual viruses.
+Much is made of the "risks" of vaccines, and yes, like any medical intervention (and [anything at all](https://understandinguncertainty.org/)) there is a risk, but it is entirely overplayed.. Most of this risk is because you are playing with the immune system with bits of infection. For example, one of the most feared complications of measles is encephalitis (brain inflammation) due to the immune response. [This occurs in about 1-3 in 1000 infections](https://www.cdc.gov/measles/symptoms/complications.html), so there is a very, very, *very* small risk of it happening with vaccines, because they're going for the same immune response with very similar triggering molecules. [It's happened three times in the entire history of measles vaccinations](https://www.cdc.gov/vaccinesafety/vaccines/mmr-vaccine.html), and in only one of them has the vaccine been solidly causally linked. Similarly anti-vax websites rant about [transverse myelitis](https://en.wikipedia.org/wiki/Transverse_myelitis) being causes by vaccines, but the [rate of it is vanishingly small](https://n.neurology.org/content/90/15_Supplement/P5.099) compared to the rate of transvere myelitis being caused by actual viruses.
 
-Do we know these risks when we set out on a vaccine programme? It's a tricky "yes and no" answer. Long-term risks are impossible to guarantee, but if we are disproportionately worried about these we'd never vaccinate everyone. For example you can't know for sure the long term risks for a 'flu vaccine when it's [by necessity a new one every year](https://www.ecdc.europa.eu/sites/default/files/documents/influenza-why-do-I-need-flu-vaccine-every-year-infographic.pdf) to cope with the evolution of 'flu, but we also know the "biologically plausible" risks of the things in the vaccine and of the bug we're injecting in to you, and so base our risk:benefits decision on that. We can't guarantee that you won't grow  a second head, but it's very, very biologically implausible as there's nothing in there known to cause it.
+Do we know these risks when we set out on a vaccine program? It's a tricky "yes and no" answer. Long-term risks are impossible to guarantee, but if we are disproportionately worried about these we'd never vaccinate everyone. For example you can't know for sure the long term risks for a 'flu vaccine when it's [by necessity a new one every year](https://www.ecdc.europa.eu/sites/default/files/documents/influenza-why-do-I-need-flu-vaccine-every-year-infographic.pdf) to cope with the evolution of 'flu, but we also know the "biologically plausible" risks of the things in the vaccine and of the bug we're injecting in to you, and so base our risk:benefits decision on that. We can't guarantee that you won't grow  a second head, but it's very, very biologically implausible as there's nothing in there known to cause it.
 
 "But this is a new vaccine!" the masses shout hysterically. Lets see what the [Pfizer vaccine](https://www.pfizer.co.uk/coronavirus-updates) does differently?
 
@@ -104,7 +104,7 @@ SARS-CoV-2 might sound familiar. That's because it's a close relative to the OG 
 
 The usual [phase 3 trial](https://www.nccn.org/patients/resources/clinical_trials/phases.aspx#:~:text=Phase%20III%20trials%20compare%20a,called%20trial%20arms%2C%20by%20chance.) (assessing how well a vaccine works) recruits a few hundred to a couple of thousand patients, and takes a few years, simply because it's really hard to ethically expose enough people to the illness to be sure it works. For example Ebola [recruited a few thousand people](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00002-1/fulltext) which was thought to be groundbreaking. The Pfizer vaccine trial, which was only one of several for COVID-19, [recruited 43,661](https://www.bmj.com/content/371/bmj.m4552).
 
-So no, this isn't rushed. It's a combination of off the shelf technology and excellent science being performed in a time of almost limitless resources and political will, and to a bug that is freely available wherever you go.
+So in summary, no, this isn't rushed (in a bad way). It's a combination of off-the-shelf technology and excellent science being performed in a time of almost limitless resources and political will, and to a bug that is freely available wherever you go.
 
  
  ## Why you should get the vaccine as soon as you can
@@ -115,8 +115,8 @@ Hopefully this is helping you understand should get the vaccine (unless you can'
 * It can't track you (and let's be honest, you're probably reading this on your mobile phone, and have at least one of a Google, Twitter, or Facebook account. Nobody needs to implant a microchip to track you because we all [freely give our data anyway](https://techtalk.gfi.com/if-its-free-youre-probably-the-product/))
 * It can't give you COVID (even less so than normal vaccines)
 * It can't alter your DNA
-* The vaccine isn't just about you
-* And COVID is a genuine problem
+* The vaccine isn't just about you, even if catching COVID [essentially doubles your risk of dying this year](https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196)
+* And COVID is a genuine problem for the entire population
 
 We'll return to Colin's plots for that last two points: Regardless of what idiots on Twitter post, that gets published by the Daily Fail, all cause mortality is much higher this year than in recent history. Not only is COVID (red) killing more peoplem than we'd like, the ramifications of this on the NHS is killing people from other things too (orange). We can't look after you if you get cancer, or crash your car, if [we have no beds](https://www.icnarc.org/Our-Audit/Audits/Cmp/Reports) because they're all full of COVID.
 
