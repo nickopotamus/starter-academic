@@ -5,7 +5,7 @@ title: "Automagically downloading PDFs from Sci-Hub with Zotero"
 subtitle: "Yo ho fiddle de dee, being a pirate is all right with me. Within limits."
 summary: "Zotero will try to download  PDF copies of anything you add to it... but what if it's stuck behind a paywall?"
 authors: []
-tags: []
+tags: ["nerdiness"]
 categories: []
 date: 2021-01-05T16:20:26Z
 lastmod: 2021-01-05T16:20:26Z

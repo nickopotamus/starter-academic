@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "100 Days of Python"
-subtitle: ""
-summary: ""
+subtitle: "Learning to code properly one toy project at a time"
+summary: "Learning to code properly one toy project at a time"
 authors: []
-tags: ["python", "programmmng", "data science"]
+tags: ["python", "programming", "data science"]
 categories: []
 date: 2020-12-05T12:03:54Z
 lastmod: 2020-12-05T12:03:54Z

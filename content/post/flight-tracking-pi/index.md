@@ -5,8 +5,8 @@ title: "Flight tracking using a Raspberry Pi"
 subtitle: "Because it's about time I went full dad"
 summary: "Because it's about time I went full dad"
 authors: []
-tags: []
-categories: ["nerdiness", "planes"]
+tags: ["nerdiness", "planes", "pi"]
+categories: []
 date: 2021-01-04T20:00:24Z
 lastmod: 2021-01-04T20:00:24Z
 featured: false

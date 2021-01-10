@@ -6,7 +6,7 @@ title: Nick Plummer
 superuser: true
 
 # Role/position
-role: Speciality trainee in anaesthesia and intensive care medicine
+role: Trainee anaesthestist intensivist, amateur data scientist, slow runner
 
 # Organizations/Affiliations
 #organizations:
@@ -14,7 +14,7 @@ role: Speciality trainee in anaesthesia and intensive care medicine
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Anaesthetist and intensive care trainee, amateur data scientist.
+bio: Recovered geophysicist. Cares intensively, sciences data, and occasionally gives an anaesthetic.
 
 #interests:
 #- Artificial Intelligence
@@ -81,13 +81,12 @@ highlight_name: false
 #- Visitors
 ---
 
-You’ve stumbled on the latest incarnation of my personal website, which hosts predominantly work related ramblings and the occasional badly written piece of amateurish open source code or bad statistical interpretation.
+You’ve stumbled upon my personal website, which hosts predominantly work related ramblings and the occasional poorly written piece of amateurish open source code or bad statistical interpretation.
 
-I’m an anaesthetics and intensive care speciality trainee in the East Midlands, with interests in:
-* Passing exams and ARCPs 
+I’m an anaesthetics and intensive care specialty trainee in the East Midlands, with interests in:
 * Neuroanaesthesia and intensive care
-* Training and improving standards in [retrieval and transfer medicine](/project/transfer-medicine)
+* Training and improving standards in [retrieval and transfer medicine](/tag/transfer/)
 * Motorsport medicine
-* Various research themes including [critical care delirium](/project/sleep-and-delirium), [decision making](/project/critical-care-decision-making) in intensive care, and risk prediction using machine learning
-* Making [data science in the healthcare space](/project/data-science-for-doctors) understandable and accessible
+* Various research themes including [critical care delirium](/tag/delirium/), [decision making](/tag/cdecision-making) in intensive care, and risk prediction using machine learning
+* Making [data science in the healthcare space](/tag/data-science/) understandable and accessible
 * Applying research methodologies to quality improvement in healthcare
