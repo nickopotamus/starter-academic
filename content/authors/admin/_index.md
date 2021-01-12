@@ -6,7 +6,7 @@ title: Nick Plummer
 superuser: true
 
 # Role/position
-role: Trainee anaesthestist intensivist, amateur data scientist, slow runner
+role: Trainee anaesthestist intensivist, amateur data scientist, slow triathlete
 
 # Organizations/Affiliations
 #organizations:
